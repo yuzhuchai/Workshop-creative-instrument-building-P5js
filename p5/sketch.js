@@ -1,6 +1,6 @@
 let sliderR
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(800, 800);
   background(255);
   colorMode(HSB)
   
