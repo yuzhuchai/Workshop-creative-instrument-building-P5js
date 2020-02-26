@@ -2,11 +2,20 @@
 
 [Fernando Ramallo](https://fernandoramallo.github.io/2019/)
 
+
+[sandSpiel](https://sandspiel.club/)
+![sand](src/sand.png)
+
+
 [Flickgame](https://www.flickgame.org/)
+![flickGame](src/flickGame.png)
 
 [Sok-stroies by Sokpop](https://sok-stories.com/?WUFF)
+![sok-Stories](src/dino.png)
 
 [Pen, Memory](https://pen-memory.herokuapp.com/) 
+![color](src/cover.png)
+
 
 [some more games]
 
@@ -100,7 +109,7 @@ mouseIsPressed is a <i><b>boolean</b></i> value, is TRUE when mouse is pressed, 
 syntax for slider: createSlider(min, max, [value], [step])
 
 ```javascript 
-<!-- in setup() -->
+// in setup()
 	colorMode(HSB)
 	sliderColor = createSlider(0,255)
 	text('color:', 0,10)
@@ -108,7 +117,7 @@ syntax for slider: createSlider(min, max, [value], [step])
 	sliderR.style('width', '100px')
 
 
-<!-- in draw() -->
+// in draw()
 
 	let colorPicked = sliderR.value()
 
@@ -121,13 +130,12 @@ syntax for slider: createSlider(min, max, [value], [step])
 ### [random](https://p5js.org/reference/#/p5/random) and [operations](src/operators.png)
 ```javascript 
 
-<!-- in setup() -->
+// in setup() 
 	sliderD = createSlider(3,10)
   	text('size', 0, 60)
   	sliderD.position(10,60)
 
-
-<!-- in draw() -->
+// in draw()
 	let size = sliderD.value()
 	size += random(10)
 	if (mouseIsPressed){
@@ -135,12 +143,6 @@ syntax for slider: createSlider(min, max, [value], [step])
 	} 
 ```
 ![assignment operators](src/operators.png)
-
-### [input](https://p5js.org/reference/#/p5/input)
-
-```javascript
-
-```
 
 
 
@@ -152,8 +154,8 @@ syntax for slider: createSlider(min, max, [value], [step])
 #### [frameRate](https://p5js.org/reference/#/p5/frameRate)
 #### [text](https://p5js.org/reference/#/p5/text)
 #### [colorMode](https://p5js.org/reference/#/p5/colorMode)
-#### [fill](https://p5js.org/reference/#/p5/fill), noFill(https://p5js.org/reference/#/p5/noFill)
-#### [stroke](https://p5js.org/reference/#/p5/stroke), [noStroke]https://p5js.org/reference/#/p5/noStroke()
+#### [fill](https://p5js.org/reference/#/p5/fill), [noFill](https://p5js.org/reference/#/p5/noFill)
+#### [stroke](https://p5js.org/reference/#/p5/stroke), [noStroke](https://p5js.org/reference/#/p5/noStroke)
 #### [mouseX](https://p5js.org/reference/#/p5/mouseX), [mouseY](https://p5js.org/reference/#/p5/mouseY)
 #### [position](https://p5js.org/reference/#/p5.Element/position)
 #### [value](https://p5js.org/reference/#/p5.Element/value)
