@@ -8,10 +8,8 @@
 
 
 [Flickgame](https://www.flickgame.org/)
-![flickGame](src/flickGame.png)
 
 [Sok-stroies by Sokpop](https://sok-stories.com/?WUFF)
-![sok-Stories](src/dino.png)
 
 [Pen, Memory](https://pen-memory.herokuapp.com/) 
 ![color](src/cover.png)
