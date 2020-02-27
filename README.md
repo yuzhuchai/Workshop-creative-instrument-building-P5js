@@ -28,6 +28,10 @@
 ### What Is A Creative Instrument? 
 
 
+### who do you make this instrument for? 
+
+
+### what do you want them to do with it? 
 
 
 
@@ -39,6 +43,7 @@
 
 
 
+## Code
 <!-- talk about scope?????? -->
 ### [functions](https://p5js.org/reference/#/p5/function)
 a set of statements that performs a task or calculates a value. To use a function you must <i><b>define</b></i> it somewhere in the <i><b>scope</b></i> from which you wish to <i><b>call</b></i> it. 
