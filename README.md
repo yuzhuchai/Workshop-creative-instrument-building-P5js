@@ -25,13 +25,13 @@
 ## [Creative Instruments](https://www.merriam-webster.com/dictionary/instrument)
 ![useage of the word instrument over time](src/instrument.png)
 
-### What Is A Creative Instrument? 
+#### What Is A Creative Instrument? 
 
 
-### who do you make this instrument for? 
+#### who do you make this instrument for? 
 
 
-### what do you want them to do with it? 
+#### what do you want them to do with it? 
 
 
 
