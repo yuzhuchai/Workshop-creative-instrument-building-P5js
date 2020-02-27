@@ -31,7 +31,9 @@
 #### who do you make this instrument for? 
 
 
-#### what do you want them to do with it? 
+#### How do you want them to use it? 
+
+#### sharing/open source 
 
 
 
