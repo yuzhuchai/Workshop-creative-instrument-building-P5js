@@ -44,7 +44,7 @@
 ### 1. exquisite corpse 
 
 [draw what you thing Alexa looks like - Melanie Hoff](https://docs.google.com/document/d/e/2PACX-1vS02YTBRsxnA5bmdtI5HdAwJ5raAzvcEe5cvWjIx_njRx9DvNt9rxJmZZ9BfvNT0eVvIdoguM6eLmxP/pub)
-
+![alxea](src/alexa.png)
 
 ### 2. drawing with limitations 
 <!-- second accitivity is to ask them to use one pen and one of their belongs to make a drawing(with limitations) -->
