@@ -41,12 +41,12 @@
 
 ## GAMES!!!! 
 
-### exquisite corpse 
+### 1. exquisite corpse 
 
 [draw what you thing Alexa looks like - Melanie Hoff](https://docs.google.com/document/d/e/2PACX-1vS02YTBRsxnA5bmdtI5HdAwJ5raAzvcEe5cvWjIx_njRx9DvNt9rxJmZZ9BfvNT0eVvIdoguM6eLmxP/pub)
 
 
-### drawing with limitations 
+### 2. drawing with limitations 
 <!-- second accitivity is to ask them to use one pen and one of their belongs to make a drawing(with limitations) -->
 
 
@@ -61,7 +61,7 @@
 
 ## Code
 <!-- talk about scope?????? -->
-### [functions](https://p5js.org/reference/#/p5/function)
+### 1. [functions](https://p5js.org/reference/#/p5/function)
 a set of statements that performs a task or calculates a value. To use a function you must <i><b>define</b></i> it somewhere in the <i><b>scope</b></i> from which you wish to <i><b>call</b></i> it. 
 
 #### scope
@@ -79,7 +79,7 @@ function welcome(){
 welcome()
 ```
 
-### [setup](https://p5js.org/reference/#/p5/setup)
+### 2. [setup](https://p5js.org/reference/#/p5/setup)
 
 setup function is called once when the program starts.
 
@@ -90,7 +90,7 @@ function setup(){
 }
 ```
 
-### [draw](https://p5js.org/reference/#/p5/draw)
+### 3. [draw](https://p5js.org/reference/#/p5/draw)
 draw function continuously executes the lines of code contained inside its block until the program is stopped. 
 ```javascript
 function draw(){
@@ -98,12 +98,12 @@ function draw(){
 }
 ```
 
-### declare variable
+### 4. declare variable
 ```javascript 
 let d = random(400)
 ```
 
-### [if Statemenets](https://p5js.org/reference/#/p5/if-else)
+### 5. [if Statemenets](https://p5js.org/reference/#/p5/if-else)
 
 if statement executes the code if a specified condition is ture. 
 ```javascript 
@@ -117,7 +117,7 @@ if statement executes the code if a specified condition is ture.
 
 
 
-### [mouseIsPressed](https://p5js.org/reference/#/p5/mouseIsPressed)
+### 6. [mouseIsPressed](https://p5js.org/reference/#/p5/mouseIsPressed)
 
 mouseIsPressed is a <i><b>boolean</b></i> value, is TRUE when mouse is pressed, and false when mouse is released
 
@@ -128,7 +128,7 @@ mouseIsPressed is a <i><b>boolean</b></i> value, is TRUE when mouse is pressed, 
 ```
 
 
-### [Slider](https://p5js.org/reference/#/p5/createSlider)
+### 7. [Slider](https://p5js.org/reference/#/p5/createSlider)
 syntax for slider: createSlider(min, max, [value], [step])
 
 ```javascript 
@@ -150,7 +150,7 @@ syntax for slider: createSlider(min, max, [value], [step])
 ```
 
 
-### [random](https://p5js.org/reference/#/p5/random) and [operations](src/operators.png)
+### 8. [random](https://p5js.org/reference/#/p5/random) and [operations](src/operators.png)
 ```javascript 
 
 // in setup() 
