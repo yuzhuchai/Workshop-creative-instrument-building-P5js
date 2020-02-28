@@ -2,24 +2,22 @@
 
 <!-- using text instead of dots !!!!! -->
 
+[1.Fernando Ramallo](https://fernandoramallo.github.io/2019/)
 
 
-[Fernando Ramallo](https://fernandoramallo.github.io/2019/)
-
-
-[sandSpiel](https://sandspiel.club/)
+[2. sandSpiel](https://sandspiel.club/)
 ![sand](src/sand.png)
 
+[3. bitsy](https://ledoux.itch.io/bitsy)
 
-[Flickgame](https://www.flickgame.org/)
+[4. Flickgame](https://www.flickgame.org/)
 
-[Sok-stroies by Sokpop](https://sok-stories.com/?WUFF)
 
-[Pen, Memory](https://pen-memory.herokuapp.com/) 
+[5. Pen, Memory](https://pen-memory.herokuapp.com/) 
 ![color](src/cover.png)
 
+[6. Sok-stroies by Sokpop](https://sok-stories.com/?WUFF)
 
-[some more games]
 
 
 ## [Creative Instruments](https://www.merriam-webster.com/dictionary/instrument)
@@ -166,6 +164,22 @@ syntax for slider: createSlider(min, max, [value], [step])
 	} 
 ```
 ![assignment operators](src/operators.png)
+
+
+
+
+
+
+
+## community building, sharing, and persistence
+
+### sharing, open source:
+[bitsy community](https://ledoux.itch.io/bitsy/community)
+
+### persistence: 
+[Max Bittker](https://maxbittker.com/making-sandspiel)
+
+### code of conduct (community managment)
 
 
 
