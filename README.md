@@ -2,22 +2,20 @@
 
 <!-- using text instead of dots !!!!! -->
 
-[1.Fernando Ramallo](https://fernandoramallo.github.io/2019/)
-
-
-[2. sandSpiel](https://sandspiel.club/)
+[1. sandSpiel](https://sandspiel.club/)
 ![sand](src/sand.png)
 
-[3. bitsy](https://ledoux.itch.io/bitsy)
+[2. bitsy](https://ledoux.itch.io/bitsy)
 
-[4. Flickgame](https://www.flickgame.org/)
+[3. Flickgame](https://www.flickgame.org/)
 
 
-[5. Pen, Memory](https://pen-memory.herokuapp.com/) 
+[4. Pen, Memory](https://pen-memory.herokuapp.com/) 
 ![color](src/cover.png)
 
-[6. Sok-stroies by Sokpop](https://sok-stories.com/?WUFF)
+[5. Sok-stroies by Sokpop](https://sok-stories.com/?WUFF)
 
+[6. Fernando Ramallo](https://fernandoramallo.github.io/2019/)
 
 
 ## [Creative Instruments](https://www.merriam-webster.com/dictionary/instrument)
@@ -166,24 +164,6 @@ syntax for slider: createSlider(min, max, [value], [step])
 ![assignment operators](src/operators.png)
 
 
-
-
-
-
-
-## community building, sharing, and persistence
-
-### sharing, open source:
-[bitsy community](https://ledoux.itch.io/bitsy/community)
-
-### persistence: 
-[Max Bittker](https://maxbittker.com/making-sandspiel)
-
-### code of conduct (community managment)
-
-
-
-
 ## code Refrences
 
 #### [circle](https://p5js.org/reference/#/p5/circle)
@@ -198,3 +178,21 @@ syntax for slider: createSlider(min, max, [value], [step])
 #### [value](https://p5js.org/reference/#/p5.Element/value)
 #### [style](https://p5js.org/reference/#/p5.Element/styles)
 #### [foundations](https://p5js.org/reference/#group-Foundation)
+
+
+
+
+
+
+## community building, sharing, and persistence
+
+### 1. sharing, open source:
+[bitsy community](https://ledoux.itch.io/bitsy/community)
+
+### 2. persistence: 
+[Max Bittker](https://maxbittker.com/making-sandspiel)
+
+### 3. code of conduct (community managment)
+
+
+<!-- insert fight club rules pictures -->
