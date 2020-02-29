@@ -94,23 +94,23 @@ draw function continuously executes the lines of code contained inside its block
 	}
 ```
 
-### 4. declare variable
+<!-- ### 4. declare variable
 ```javascript 
 	let d = random(400)
-```
+``` -->
 
 ### 5. [if Statemenets](https://p5js.org/reference/#/p5/if-else)
 
 if statement executes the code if a specified condition is ture. 
-```javascript 
+<!-- ```javascript 
 		  
 	if (d < 200){
-	stroke(0,0,200)
+		stroke(0,0,200)
 	} else {
-	stroke(200,0,0)
+		stroke(200,0,0)
 	}
 ```
-
+ -->
 
 
 ### 6. [mouseIsPressed](https://p5js.org/reference/#/p5/mouseIsPressed)
@@ -130,18 +130,18 @@ syntax for slider: createSlider(min, max, [value], [step])
 ```javascript 
 	// in setup()
 	colorMode(HSB)
-	sliderColor = createSlider(0,255)
+	colorSlider = createSlider(0,255)
 	text('color:', 0,10)
-	sliderR.position(0,30)
-	sliderR.style('width', '100px')
+	colorSlider.position(0,30)
+	colorSlider.style('width', '100px')
 
 
 	// in draw()
 
-	let colorPicked = sliderR.value()
+	let newColor = colorSlider.value()
 
 	//hug, saturation, brightness, opacity
-	fill(colorPicked, 100, 100, 1)
+	fill(newColor, 100, 100, 1)
 
 ```
 
@@ -150,12 +150,12 @@ syntax for slider: createSlider(min, max, [value], [step])
 ```javascript 
 
 	// in setup() 
-	sliderD = createSlider(3,10)
+	sizeSlider = createSlider(3,10)
   	text('size', 0, 60)
-  	sliderD.position(10,60)
+  	sizeSlider.position(10,60)
 
 	// in draw()
-	let size = sliderD.value()
+	let size = sizeSlider.value()
 	size += random(10)
 	if (mouseIsPressed){
 		circle(mouseX, mouseY, size)
