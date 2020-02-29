@@ -178,7 +178,7 @@ syntax for slider: createSlider(min, max, [value], [step])
 [Max Bittker](https://maxbittker.com/making-sandspiel)
 
 ### 3. code of conduct (community managment)
-![fightclub](https://thumbs.gfycat.com/MelodicComposedCobra-small.gif)
+![fightclub](https://thumbs.gfycat.com/CelebratedElectricClumber-size_restricted.gif)
 <!-- insert fight club rules pictures -->
 
 ## code Refrences
